@@ -1,0 +1,17 @@
+Trace to 8.8.8.8:
+TTL 1: 10.209.64.1 () [ICMP] RTT=11.23ms 
+TTL 1: 10.209.64.1 () [UDP] RTT=6.46ms 
+TTL 1: 10.209.64.1 () [TCP] RTT=6.20ms 
+TTL 2: 10.213.33.33 () [ICMP] RTT=7.56ms 
+TTL 2: 10.213.33.25 () [UDP] RTT=7.11ms 
+TTL 2: 10.213.33.25 () [TCP] RTT=7.48ms 
+TTL 3: 10.213.32.41 () [ICMP] RTT=7.72ms 
+TTL 3: 10.213.32.41 () [UDP] RTT=6.77ms 
+TTL 3: 10.213.32.41 () [TCP] RTT=7.25ms 
+TTL 4: 10.213.32.22 () [ICMP] RTT=7.99ms 
+TTL 4: 10.213.32.22 () [UDP] RTT=6.91ms 
+TTL 4: 10.213.32.22 () [TCP] RTT=8.17ms 
+TTL 5: 203.85.128.94 (203-85-128-94.static.hk.net) [ICMP] RTT=48.82ms 
+TTL 5: 203.85.128.94 (203-85-128-94.static.hk.net) [UDP] RTT=35.29ms 
+TTL 5: 203.85.128.94 (203-85-128-94.static.hk.net) [TCP] RTT=35.82ms 
+
