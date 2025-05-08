@@ -1,5 +1,6 @@
 from scapy.all import IP, UDP, sr1
 from .base import Probe
+from typing import Optional
 
 class UDPProbe(Probe):
     def send(self, dst_ip: str, ttl: int, dport: int = 33434, **kwargs) -> IP:
