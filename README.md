@@ -21,3 +21,8 @@ Run all tests with:
 ```
 pytest
 ```
+
+## Contributors
+*   Pavel Nikolaitchev - Core probing logic and tests
+*   Jessy Wang - Visualization module
+*   Riguel Assis - CLI interface
