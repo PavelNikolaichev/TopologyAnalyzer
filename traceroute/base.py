@@ -1,3 +1,5 @@
+from scapy.all import IP
+
 from abc import ABC, abstractmethod
 from typing import Optional
 from scapy.all import IP

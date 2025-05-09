@@ -1,6 +1,7 @@
 from typing import Optional
 from scapy.all import IP, TCP, sr1
 from .base import Probe
+from typing import Optional
 
 class TCPProbe(Probe):
     def send(self, dst_ip: str, ttl: int, dport: int = 80, **kwargs) -> IP:
