@@ -1,3 +1,4 @@
+from typing import Optional
 from scapy.all import IP, UDP, sr1
 from .base import Probe
 from typing import Optional
