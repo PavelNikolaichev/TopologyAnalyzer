@@ -25,4 +25,4 @@ pytest
 ## Contributors
 *   Pavel Nikolaitchev - Core probing logic and tests
 *   Jessy Wang - Visualization module
-*   Riguel Assis - CLI interface
+*   Riguel Assis - CLI interface, optimization and adding the support for other protocols
